@@ -1,3 +1,4 @@
+# Simple Ad Rotation Script
 In this script (very easy script), we setup 3 ads for rotation. First ad, we want it to display 70%, second ad we want to display 20% and the last one we want to display 10%
 
 ## What to do
